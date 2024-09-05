@@ -3,7 +3,7 @@
 
 ## Olá, Caro Recrutador ou Responsável 
 
-### Todas as Respostas do Desafio Técninco estão em Pastas em Ordem, utilizei o **NODEJS**
+### Todas as Respostas do Desafio Target estão em Pastas em Ordem, utilizei o **NODEJS**
 
 ### Para Executar os Códigos basta fazer um git-clone entrar na pasta referente a pergunta e rodar
 ```
